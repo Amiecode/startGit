@@ -6,4 +6,7 @@ Welcome to the Amiecode
    Python
    Web Designing and Development
    
+             Data Structures and Algorithms
+             Numerical Methods/Techniques
+   
    Thank You :)
